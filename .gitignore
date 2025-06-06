@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pkl
+*.gz
+*.zip
+.env
+.venv/
+.idea/
+.DS_Store
+streamlit_static/
