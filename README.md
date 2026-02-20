@@ -22,5 +22,6 @@ A simple web app built with Streamlit to classify SMS messages as **Spam** or **
 git clone https://github.com/mohitmalviya0707/Fraud-SMS-detector.git
 cd Fraud-SMS-detector
 pip install -r requirements.txt
-streamlit run app.py
+
+
 
